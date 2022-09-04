@@ -47,3 +47,5 @@ print(str(str1[1:len(str1)-1]))
 # for i in range(len(str.split("("))):
 #     if str.split("(")[i][0].find(")") == -1:
 #         new = str.split("(")[i][0]
+
+print("lets see if it will change in vs code")
